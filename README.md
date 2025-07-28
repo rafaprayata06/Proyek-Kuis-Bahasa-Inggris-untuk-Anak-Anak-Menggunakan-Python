@@ -9,15 +9,3 @@ Aplikasi ini juga dilengkapi dengan musik latar dan efek suara jawaban untuk men
 Cocok digunakan sebagai media belajar tambahan untuk anak usia sekolah dasar atau sebagai referensi pengembangan game edukasi dengan Python.
 # Cara Menjalankan Proyek
 
-Jalankan perintah berikut:
-
-```bash
-composer install
-npm install
-
-Lalu jalankan Laravel:
-
-bash
-Copy
-Edit
-php artisan serve
