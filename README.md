@@ -7,3 +7,10 @@ Pengguna akan diberikan pertanyaan berupa deskripsi benda atau konsep dalam baha
 Aplikasi ini juga dilengkapi dengan musik latar dan efek suara jawaban untuk meningkatkan pengalaman belajar. Jika pemain menjawab salah, permainan akan berakhir dan langsung ditampilkan skor serta jawaban yang benar.
 
 Cocok digunakan sebagai media belajar tambahan untuk anak usia sekolah dasar atau sebagai referensi pengembangan game edukasi dengan Python.
+# Cara Menjalankan Proyek
+
+Jalankan perintah berikut:
+
+```bash
+composer install
+npm install
