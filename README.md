@@ -7,5 +7,15 @@ Pengguna akan diberikan pertanyaan berupa deskripsi benda atau konsep dalam baha
 Aplikasi ini juga dilengkapi dengan musik latar dan efek suara jawaban untuk meningkatkan pengalaman belajar. Jika pemain menjawab salah, permainan akan berakhir dan langsung ditampilkan skor serta jawaban yang benar.
 
 Cocok digunakan sebagai media belajar tambahan untuk anak usia sekolah dasar atau sebagai referensi pengembangan game edukasi dengan Python.
-# Cara Menjalankan Proyek
 
+1.  **Clone repositori ini:**
+    ```bash
+    git clone [https://github.com/GGarx34/Project-DasUIUX-WebProfil-PesantrenRafah.git](https://github.com/GGarx34/Project-DasUIUX-WebProfil-PesantrenRafah.git)
+    cd Project-DasUIUX-WebProfil-PesantrenRafah
+    ```
+
+2.  **Install dependensi:**
+    ```bash
+    composer install
+    npm install
+    ```
