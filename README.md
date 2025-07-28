@@ -15,8 +15,9 @@ Jalankan perintah berikut:
 composer install
 npm install
 
-lalu:
+Lalu jalankan Laravel:
 
-```bash
-composer sqs
-npm install
+bash
+Copy
+Edit
+php artisan serve
