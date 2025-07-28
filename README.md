@@ -14,3 +14,9 @@ Jalankan perintah berikut:
 ```bash
 composer install
 npm install
+
+lalu:
+
+```bash
+composer sqs
+npm install
